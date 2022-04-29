@@ -9,8 +9,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background:url(photo.gif) no-repeat fixed center;
-    background-size: 1365.5px 624.5px;
+   
 }
 .wrapper{
     width: 615px;
